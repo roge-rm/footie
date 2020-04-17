@@ -47,7 +47,6 @@ bool ledStatus[4][4] = {{0, 0, 0, 0}, {0, 0, 0, 0}, {0, 0, 0, 0}, {0, 0, 0, 0}};
 
 //Switch states for runmodes that require toggling
 bool switchStates[4][4] = {{0, 0, 0, 0}, {0, 0, 0, 0}, {0, 0, 0, 0}, {0, 0, 0, 0}};
-bool switchState[8] = {0, 0, 0, 0, 0, 0, 0, 0};
 
 //Create Bounce objects for each button and switch.
 //Default debounce time is 5ms
