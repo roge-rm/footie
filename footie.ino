@@ -149,6 +149,7 @@ void loop() {
     runmodePROGRAMCHANGE();
   } else if (RUNMODE == 8) {
     runmodeSETTINGS();
+    WIPE = 1;
   }
 
   //Select between the 4 BANKs of buttons
