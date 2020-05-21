@@ -5,9 +5,9 @@ a 4 button/4 bank portable, battery powered, MIDI footswitch with USB and MIDI D
 <img src=https://raw.githubusercontent.com/hunked/footie/master/images/002.jpg width=300><img src=https://raw.githubusercontent.com/hunked/footie/master/images/004.jpg width=300>
 
 I decided to make an updated version of my last project, an [8 button USB/MIDI footswitch](https://github.com/hunked/eightbuttonMIDIfootswitch), to address some issues I had with the last design. The new version features:
--An internal 18650 battery (removeable) that is charged by a USB-C charging board
--Only 4 footswitches vs 8, but with 4 soft buttons to switch between 4 banks of buttons (for a total of 16)
--Expression pedal input (WIP, waiting for a TRS jack as all I have on hand are TS)
+- An internal 18650 battery (removeable) that is charged by a USB-C charging board
+- Only 4 footswitches vs 8, but with 4 soft buttons to switch between 4 banks of buttons (for a total of 16)
+- Expression pedal input (WIP, waiting for a TRS jack as all I have on hand are TS)
 
 Otherwise the functions are very similar to my previous project and the code is mostly shared between them.
 
